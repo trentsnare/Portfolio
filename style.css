@@ -1,0 +1,104 @@
+nav {
+    background-color: #e9d8a6;
+    text-align: right;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 80px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.name {
+    color: #3d405b ;
+    text-align: left;
+
+}
+body {
+    background-color: #22333b;
+}
+.homeinfo {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+.trent {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.homequote {
+    color:cadetblue;
+    text-align: center;
+    font-style: italic;
+}
+.rafting {
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+.raftpar {
+    color: aliceblue;
+    text-align: center;
+}
+.raftpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gaming {
+    color:aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.gaminginfo {
+    color: aliceblue;
+    text-align: center;
+}
+.d2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.porthead {
+    color: aliceblue;
+    font-size: 24px;
+    text-align: center;
+}
+.firstproject {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.fpinfo {
+    color: aliceblue;
+    text-align: center;
+}
+.fpss {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.secondproject {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.spinfo {
+    color:aliceblue;
+    text-align: center;
+}
+.spss {
+    display: block;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
