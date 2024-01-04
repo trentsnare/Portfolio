@@ -102,3 +102,11 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+.form {
+    color: aliceblue;
+    text-align: left;
+}
+.contme {
+    color: aliceblue;
+    text-align: justify;
+}
